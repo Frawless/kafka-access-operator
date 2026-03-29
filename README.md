@@ -2,6 +2,8 @@
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Twitter Follow](https://img.shields.io/twitter/follow/strimziio?style=social)](https://twitter.com/strimziio)
 
+test
+
 # Access Operator for Strimzi
 
 This project provides a Kubernetes operator to help applications bind to an [Apache Kafka®](https://kafka.apache.org) cluster that is managed by the [Strimzi](https://strimzi.io) cluster operator.
